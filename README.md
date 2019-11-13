@@ -30,7 +30,10 @@ a random draw app for the alpine skiing giant slalom or slalom start list random
 
 界面语言修改：程序 图片和文字之间的空白处，双击鼠标，可以修改程序语言为 英语/中文
 
-
+Chinese Version
+![Image text](https://github.com/yunduan2266/RandomDrawForAlpineSkiingStartList/blob/master/chn%20version.png)
+English Version
+![Image text](https://github.com/yunduan2266/RandomDrawForAlpineSkiingStartList/blob/master/eng%20version.png)
 -----------------------------
 
 LFj
