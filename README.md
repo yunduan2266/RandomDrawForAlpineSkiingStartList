@@ -2,7 +2,11 @@
 a random draw app for the alpine skiing giant slalom or slalom start list random draw
 使用说明
 2019.11.13
+=======================
+2022 07 21 11:12
+lfj学会了Git，重新把库弄下来，更新一下README
 
+=======================
 
 1、抽签操作说明：
 名单模板.xlsx
